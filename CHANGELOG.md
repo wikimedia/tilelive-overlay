@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.4.0
+- Updated to @wikimedia/geojson-mapnikify 4.0.0
+- Use upstream node-mapnik
+
 ## v2.3.0
 - Avoids potential URL parsing issue and instead just does a simple check for the overlaydata protocol
 - Reverts back to @mapbox/geojson-mapnikify 2.1.0
