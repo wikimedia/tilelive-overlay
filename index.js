@@ -1,4 +1,4 @@
-var mapnik = require('@kartotherian/mapnik'),
+var mapnik = require('mapnik'),
     sm = new (require('@mapbox/sphericalmercator'))(),
     mapnikify = require('@wikimedia/geojson-mapnikify');
 
